@@ -399,6 +399,15 @@ img {
     background-color: #2e2f42;
 }
 
+.footer-container {
+    display: flex;
+    align-items: baseline;
+}
+
+.container-logo {
+    margin-right: 120px;
+}
+
 .footer-logo {
     display: inline-block;
     margin-bottom: 16px;
@@ -416,7 +425,7 @@ img {
     color: #f4f4fd;
 }
 
-.footer-social {}
+
 
 .footer-social-text {
     font-weight: 500;
